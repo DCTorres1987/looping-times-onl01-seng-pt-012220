@@ -2,7 +2,7 @@
 	
 #end
 
-def using_times (phrase)
+def using_times (times)
   
 7.times do
   puts "Wingardium Leviosa"
